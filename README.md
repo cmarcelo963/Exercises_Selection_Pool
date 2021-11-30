@@ -14,8 +14,10 @@ As much as you would like to say that this is easy, the purpose of these exercis
 8. Print the second half backwards of the given string - ```"flah ts1 eht si sihTflah dn2 eht si sihT"```
 9. Print the first half of this string - ```"This is the 1st halfThis is the 2nd half"```
 10. Print the second half of this string - ```"This is the 1st halfThis is the 2nd half"```
-11. Print every two characters of this string starting from the first character - ```"TkHpIqS  sIhS  pDzOhNTE  ICGOgRJRVEQCNTALZY"```
-12. Print every characters in this string in which their position is divisible by 3 - ```"POWiuedflxcl   poDjiojhnrte./!"```
+11. Print every two characters of this string starting from the first character
+```"TkHpIqS  sIhS  pDzOhNTE  ICGOgRJRVEQCNTALZY"```
+12. Print every characters in this string in which their position is divisible by 3
+```"POWiuedflxcl   poDjiojhnrte./!"```
 13. Print the given string and change every 'z' or 'Z' into 'o' or 'O' - ```"I knzw hzw tz czde nzw!"```
 14. Print the last word of the given string - ```"First word means more than the last"```
 
