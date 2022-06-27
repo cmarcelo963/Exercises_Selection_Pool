@@ -25,9 +25,9 @@ As much as you would like to say that this is easy, the purpose of these exercis
 
 
 ## Printing Numbers in Pair
-1. Print two numbers counting from 00 to 99. Must separate each numbers with a comma(,) and end the code with a new line.
-2. Print two numbers counting from 99 to 00. Must separate each numbers with a comma(,) and end the code with a new line.
-3. Print two numbers counting from 10 to 98 in which the first digit can never be lower or equal to the second digit. Must separate each numbers with a comma(,) and end the code with a new line.
-4. Print two numbers counting from 98 to 10 in which the first digit can never be lower or equal to the second digit. Must separate each numbers with a comma(,) and end the code with a new line.
-5. Print two numbers counting from 01 to 89 in which the second digit can never be lower or equal to the first digit. Must separate each numbers with a comma(,) and end the code with a new line.
-6. Print two numbers counting from 89 to 01 in which the second digit can never be lower or equal to the first digit. Must separate each numbers with a comma(,) and end the code with a new line.
+1. Print two numbers counting from ```00``` to ```99```. Must separate each numbers with a comma(```,```) and end the code with a new line.
+2. Print two numbers counting from ```99``` to ```00```. Must separate each numbers with a comma(```,```) and end the code with a new line.
+3. Print two numbers counting from ```10``` to ```98``` in which the first digit can never be lower or equal to the second digit. Must separate each numbers with a comma(```,```) and end the code with a new line.
+4. Print two numbers counting from ```98``` to ```10``` in which the first digit can never be lower or equal to the second digit. Must separate each numbers with a comma(```,```) and end the code with a new line.
+5. Print two numbers counting from ```01``` to ```89``` in which the second digit can never be lower or equal to the first digit. Must separate each numbers with a comma(```,```) and end the code with a new line.
+6. Print two numbers counting from ```89``` to ```01``` in which the second digit can never be lower or equal to the first digit. Must separate each numbers with a comma(```,```) and end the code with a new line.
