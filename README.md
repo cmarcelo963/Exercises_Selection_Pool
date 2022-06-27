@@ -2,7 +2,7 @@
 Are you looking for exercises to practise what you've learnt so far? <br>
 Look no further :)
 
-*** IF YOU WANT YOUR CODE TO BE CHECKED IF IT CORRECT OR NOT, PLEASE ASK ANY OF THE 
+*** IF YOU WANT YOUR CODE TO BE CHECKED IF ITS CORRECT OR NOT, PLEASE ASK ANY OF THE CURRENT STUDENTS ***
 
 ## Printing, For Loops and IF, ELSE Statements
 As much as you would like to say that this is easy, the purpose of these exercises is to further practise your ability to code and not to teach you how to code. There is a way on how to do it differently/easily by manually printing the characters from exercises 4 and beyond, but please note that this will help you practise the the intended coding procedures if done manually.
